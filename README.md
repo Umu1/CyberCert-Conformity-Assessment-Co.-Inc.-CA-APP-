@@ -1,5 +1,5 @@
 # 💼 Conformity Assessment APP
-##( This software was developed for CyberCert Conformity Assessment Co. Inc. )
+> ( This software was developed for CyberCert Conformity Assessment Co. Inc. / Bu yazılım CyberCert Conformity Assessment Co. Inc. için geliştirilmiştir.)
    
 **Uygunluk Değerlendirme ve Yönetim Sistemi Yazılımı**
 
@@ -16,4 +16,15 @@ Conformity Assessment APP, uygunluk değerlendirme kuruluşlarının (CAB) iç d
 
 CA APP, Umut Kılıç tarafından geliştirilen, uygunluk değerlendirme süreçlerini dijitalleştirerek verimliliği artıran yenilikçi bir çözüm olup, **akreditasyon kuruluşları** ve **belgelendirme firmaları** için özel olarak tasarlanmıştır.
 
-Copyright 2025 Umut Kılıç (U1K)
+---
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
+## 🪪 License & Copyright
+
+© 2025 **Umut Kılıç (U1K)**  
+Developed for **[CyberCert Conformity Assessment Co. Inc.](https://cybercertification.com.tr/)**  
+Licensed under the **[Apache License, Version 2.0](LICENSE)**  
+
+You may use, modify, and distribute this software under the terms of the Apache 2.0 License.  
+Unauthorized removal of attribution or modification of copyright notices is prohibited.
